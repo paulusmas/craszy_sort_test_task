@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "app_generate", "app_generate\app_generate.vcproj", "{8349D44C-8EDA-4A03-B1EF-8FD10C0B409D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "app_sort", "app_sort\app_sort.vcproj", "{9867E684-4F18-4627-9835-C9A4841DEE28}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sortimpl", "sortimpl\sortimpl.vcproj", "{3AFC30D9-6F55-4E24-A5A5-FCD5DEA11E2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8349D44C-8EDA-4A03-B1EF-8FD10C0B409D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8349D44C-8EDA-4A03-B1EF-8FD10C0B409D}.Debug|Win32.Build.0 = Debug|Win32
+		{8349D44C-8EDA-4A03-B1EF-8FD10C0B409D}.Release|Win32.ActiveCfg = Release|Win32
+		{8349D44C-8EDA-4A03-B1EF-8FD10C0B409D}.Release|Win32.Build.0 = Release|Win32
+		{9867E684-4F18-4627-9835-C9A4841DEE28}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9867E684-4F18-4627-9835-C9A4841DEE28}.Debug|Win32.Build.0 = Debug|Win32
+		{9867E684-4F18-4627-9835-C9A4841DEE28}.Release|Win32.ActiveCfg = Release|Win32
+		{9867E684-4F18-4627-9835-C9A4841DEE28}.Release|Win32.Build.0 = Release|Win32
+		{3AFC30D9-6F55-4E24-A5A5-FCD5DEA11E2E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3AFC30D9-6F55-4E24-A5A5-FCD5DEA11E2E}.Debug|Win32.Build.0 = Debug|Win32
+		{3AFC30D9-6F55-4E24-A5A5-FCD5DEA11E2E}.Release|Win32.ActiveCfg = Release|Win32
+		{3AFC30D9-6F55-4E24-A5A5-FCD5DEA11E2E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
