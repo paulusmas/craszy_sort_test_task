@@ -1,4 +1,4 @@
-﻿### Sorting string with operators and elements
+### Sorting string with operators and elements
 
 Operators: '(' , ')' and '+'
 Elements: symbols
