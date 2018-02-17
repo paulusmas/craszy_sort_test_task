@@ -1,8 +1,10 @@
 ### Sorting string with operators and elements
 
 Operators: '(' , ')' and '+'
+
 Elements: symbols
-Sorting by alphabetically, for example
+
+Sorting by alphabetically, for example:
 
 Input: (X + (V+M+A) + C +(M+L + (C + C) + C)) (1)
 
